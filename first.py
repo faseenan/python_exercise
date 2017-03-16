@@ -7,7 +7,7 @@
 input is a built in function which always return str 
 (2) learned type conversion str into int and viceversa
  
- if condition
+ if syntax
 
  if (condition == True):
  	print (yes)
